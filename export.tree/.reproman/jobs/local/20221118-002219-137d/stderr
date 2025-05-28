@@ -1,0 +1,10 @@
+WARNING (11/18/22 14:27:56): LAUNCHER_WORKDIR variable not set. Using current directory.
+using /tmp/launcher.5000979.hostlist.k6qtTOB5 to get hosts
+starting job on c155-022
+starting job on c155-152
+starting job on c156-011
+starting job on c156-021
+starting job on c156-112
+starting job on c156-171
+starting job on c157-012
+Terminated
